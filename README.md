@@ -1,7 +1,7 @@
 # 🚀 RoxyHub | RUNAWAYS [beta] - Master Auto Farm & Exploit Suite
 
 > **Official Release for RUNAWAYS [beta] on Roblox**  
-> Developed by **RoxyHub Team** (`cook45` & `clack`)
+> Developed by **RoxyHub Team** (`Sorano_x`)
 
 ---
 
