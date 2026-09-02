@@ -51,6 +51,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/xRoxyHubx/Script-Robl
 ---
 
 ## 📜 Credits & License
-- **Authors**: `cook45` & `clack`
+- **Authors**: `Sorano_x`
 - **Organization**: `xRoxyHubx`
 - **Repository**: [https://github.com/xRoxyHubx/Script-Roblox-RUNAWAYS-Auto-Farm](https://github.com/xRoxyHubx/Script-Roblox-RUNAWAYS-Auto-Farm)
