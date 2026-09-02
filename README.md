@@ -1,1 +1,6 @@
-# Script-Roblox-RUNAWAYS-Auto-Farm
+- Auto Farm: Master 24/7 Highway Farmer, 10-Item Hand+Backpack Counting, First-Person Basket Aim & Drop, 100% Town Clearance Engine
+- Auto Escape: 2-Way Synchronized Target Cash (Input & Slider), Dynamic FinalDoor CommandButton Finder, 2-Minute Gate Countdown Watcher, Auto-Cross Border
+- Combat: 5,000-Stud Ground NPC & Police Helicopter Kill Aura, Rapid Fire, No Recoil, Instant Melee
+- Exploits: Instant Cash Vacuum Magnet, Auto Safe & Vault Breaker
+- Movement & Vehicles: Sprint Multiplier, Infinite Jump, Anti-Ragdoll, Infinite Fuel, Vehicle GodMode, Nitro Thrust
+- Visuals: Clean Valuables, Cash, NPC, Player, and Border Terminal ESP
